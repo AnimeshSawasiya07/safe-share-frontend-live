@@ -1,0 +1,27 @@
+    footer {
+        background-color: #972460;
+    }
+
+    .subscribe-section {
+        height: 20rem;
+    }
+
+    .subscribe-email {
+        border-style: none;
+        background-color: rgba(255, 255, 255, 0.363);
+    }
+
+    .a,
+    .p,
+    .footer-about {
+        color: rgba(255, 255, 255, 0.5);
+    }
+
+    h6 {
+        color: rgba(255, 255, 255, 0.841);
+    }
+
+    .footer-logo {
+        height: 5rem;
+        width: 5rem;
+    }

@@ -1,0 +1,21 @@
+.date-container{
+    min-height: 20rem;
+    border-style: none;
+    border-radius: 1rem;
+    box-shadow: 2px 2px 3px 2px gray;
+}
+
+.delivery-option{
+    height: 4rem;
+    border: 1px rgba(0, 0, 0, 0.34);
+    border-style: solid;
+    border-radius: 1rem;
+    
+}
+
+.order-summary{
+    min-height: 15rem;
+    border-style: none;
+    border-radius: 1rem;
+    box-shadow: 2px 2px 3px 2px gray;
+}

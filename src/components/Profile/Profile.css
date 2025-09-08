@@ -1,0 +1,82 @@
+.Profile-detail-container{
+    min-height: 20rem;
+    border-style: none;
+    border-radius: 0.4rem;
+    box-shadow: 2px 2px 3px 2px gray;
+}
+
+.profile-image{
+    height: 7rem;
+    width: 7rem;
+    border-radius: 50%;
+    background-color: gray;
+}
+
+.profile-isVerified{
+    border-style: none;
+    border-radius: 1rem;
+    color: green;
+    background-color: rgba(0, 128, 0, 0.229);
+}
+.profile-isTrusted{
+     border-style: none;
+    border-radius: 1rem;
+    color: blue;
+    background-color: rgba(0, 0, 255, 0.142)
+}
+
+.total-earned{
+    height: 5rem;
+    width: 10rem;
+    border-style: none;
+    border-radius: 1rem;
+    background-color: rgba(0, 128, 0, 0.229);
+}
+
+.items-listed{
+     height: 5rem;
+    width: 10rem;
+    border-style: none;
+    border-radius: 1rem;
+    background-color: rgba(0, 55, 255, 0.142)
+}
+
+.orders-complete{
+ height: 5rem;
+    width: 10rem;
+    border-style: none;
+    border-radius: 1rem;
+    background-color: rgba(123, 0, 255, 0.142)
+}
+.total-spent{
+ height: 5rem;
+    width: 10rem;
+    border-style: none;
+    border-radius: 1rem;
+    background-color: rgba(255, 242, 0, 0.142)
+}
+.avg-rating{
+ height: 5rem;
+    width: 10rem;
+    border-style: none;
+    border-radius: 1rem;
+    background-color: rgba(234, 0, 255, 0.085)
+}
+.reviews    {
+ height: 5rem;
+    width: 10rem;
+    border-style: none;
+    border-radius: 1rem;
+    background-color: rgba(25, 0, 255, 0.142)
+}
+
+
+.active-tab{
+    border-radius: 25px;
+    border: 1px #7a124d;
+    border-style: solid;
+}
+
+.edit-btn{
+    background-color: #7a124d;
+}

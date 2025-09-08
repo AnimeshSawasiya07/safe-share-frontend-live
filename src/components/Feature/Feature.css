@@ -1,0 +1,114 @@
+.feature-main-container {
+    min-height: 60rem;
+    background: linear-gradient(rgba(72, 217, 210, 0.026), white);
+}
+
+.why-text {
+    height: 2rem;
+    width: 15rem;
+    background-color: rgba(0, 140, 255, 0.204);
+    color: rgb(5, 117, 208);
+    border-style: none;
+    border-radius: 30px;
+}
+
+.feature-heading {
+    margin-top: 2rem;
+    font-size: 4rem;
+    line-height: 5rem;
+}
+
+.feature-card {
+    height: auto;
+    width: 100%;
+    max-width: 350px;
+    padding: 1rem;
+}
+
+.feature-card {
+    height: 14rem;
+    width: 25rem;
+    border-style: none;
+    border-radius: 15px;
+    box-shadow: 2px 2px 5px 1px gray;
+}
+
+.feature-card1 {
+    background-color: rgba(59, 168, 204, 0.21);
+}
+.feature-card2 {
+    background-color: rgba(43, 208, 159, 0.237);
+}
+.feature-card3 {
+    background-color: rgba(160, 204, 59, 0.233);
+}
+.feature-card4 {
+    background-color: rgba(96, 191, 223, 0.168);
+}
+.feature-card5 {
+    background-color: rgba(123, 139, 144, 0.21);
+}
+.feature-card6 {
+    background-color: rgba(214, 97, 222, 0.21);
+}
+
+
+.card-box {
+    height: 3.5rem;
+    width: 3.5rem;
+    border-style: none;
+    border-radius: 14px;
+}
+
+.card-box1 {
+    font-size: 2rem;
+    color: white;
+    background: linear-gradient(to left, rgba(128, 0, 128, 0.778), rgb(94, 149, 220))
+}
+
+.card-box2 {
+    font-size: 2rem;
+    color: white;
+    background: linear-gradient(to left, rgba(55, 82, 253, 0.778), rgb(49, 209, 148))
+}
+
+.card-box3 {
+    font-size: 2rem;
+    color: white;
+    background: linear-gradient(to left, rgba(208, 132, 18, 0.778), rgb(197, 220, 94))
+}
+
+.card-box4 {
+    font-size: 2rem;
+    color: white;
+    background: linear-gradient(to left, rgba(168, 19, 168, 0.778), rgb(231, 154, 224))
+}
+
+.card-box5 {
+    font-size: 2rem;
+    color: white;
+    background: linear-gradient(to left, rgba(55, 253, 167, 0.778), rgb(33, 147, 103))
+}
+
+.card-box6 {
+    font-size: 2rem;
+    color: white;
+    background: linear-gradient(to left, rgba(228, 11, 228, 0.778), rgb(139, 76, 134))
+}
+
+
+
+@media screen and (max-width: 768px) {
+    .feature-heading {
+        font-size: 2.5rem;
+        line-height: 3rem;
+    }
+}
+
+
+@media screen and (max-width: 576px) {
+    .feature-main-container {
+        padding: 1rem;
+        text-align: center;
+    }
+}

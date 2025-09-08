@@ -1,0 +1,66 @@
+.category-name {
+    height: 1.4rem;
+    border-style: none;
+    border-radius: 0.3rem;
+    background-color: rgba(0, 128, 0, 0.356);
+}
+
+.view-condition-txt {
+    height: 1.4rem;
+    border: 1px rgba(0, 166, 255, 0.715);
+    color: rgb(4, 84, 127);
+    border-style: solid;
+    border-radius: 0.3rem;
+}
+
+.verified-owner-badge {
+    height: 1.4rem;
+    border: 1px rgba(128, 0, 128, 0.548);
+    color: purple;
+    border-style: solid;
+    border-radius: 0.3rem;
+}
+
+.title-div {
+    font-size: 2rem;
+}
+
+.price-div {
+    height: 10rem;
+    width: 100%;
+    border: 1px rgba(36, 181, 36, 0.805);
+    border-style: solid;
+    border-radius: 0.5rem;
+    background-color: rgba(0, 128, 60, 0.164);
+}
+
+.buy-rent-button {
+    background-color: #0499f2;
+    background-image: linear-gradient(315deg, #0499f2 0%, #26f596 74%);
+
+}
+
+.safety-protection-info{
+    height: 10rem;
+    width: 100%;
+    border: 1px rgba(36, 147, 181, 0.805);
+    border-style: solid;
+    border-radius: 0.5rem;
+    background-color: rgba(40, 195, 242, 0.066);
+}
+
+.profile-info{
+     min-height: 5rem;
+    width: 100%;
+    border: 1px rgba(109, 119, 123, 0.5);
+    border-style: solid;
+    border-radius: 0.5rem;
+    background-color: rgb(255, 255, 255);
+}
+
+.p-profile-img{
+    height: 4rem;
+    width: 4rem;
+    border-radius: 50%;
+    background-color: rgba(75, 75, 75, 0.241);
+}

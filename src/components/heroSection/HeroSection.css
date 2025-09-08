@@ -1,0 +1,29 @@
+.hero-section {
+    height: 36rem;
+}
+
+.bag-image {
+    height: 35rem;
+}
+
+.pinkish {
+    color: #3c0623;
+}
+
+.explore-btn{
+    background-color: #7a124d;
+}
+.explore-btn:hover{
+    background-color: #7a124d;
+}
+
+.light-pinkish{
+    color: #7a124d;
+}
+.bg-pinkish{
+     background-color: #7a124d1d;
+}
+
+/* .right-side-product{
+    height: 10px;
+} */
