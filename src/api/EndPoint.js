@@ -1,4 +1,4 @@
-export const BASE_URL = "http://localhost:3000"
+export const BASE_URL = "https://safe-share-backend-live-1.onrender.com"
 
 export default {
     SIGN_UP : BASE_URL+"/user/signup",

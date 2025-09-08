@@ -6,7 +6,7 @@ import EndPoint, { BASE_URL } from "../../api/EndPoint"
 import { useSelector } from "react-redux";
 import api from "../../interceptor/axios";
 import Reviews from "./Reviews";
-import { Details } from "./details";
+import { Details } from "./Details";
 import { toast, ToastContainer } from "react-toastify";
 import FooterBottom from "../Footer/FooterBottom";
 
